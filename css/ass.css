@@ -1,0 +1,9 @@
+.container{
+    display: flex; 
+}
+.item img{
+    padding-top: 18px;
+}
+.items{
+    padding-left: 12px;
+}
